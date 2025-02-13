@@ -1,6 +1,10 @@
 # Projet Symfony API
 
-## 🚀 Installation
+## Essayer
+
+Si mon serveur est allumé actuellement, vous pouvez essayez l'API ici : https://planete-api.velvet-room.tech/api ou ici http://planete-api.velvet-room.tech/api
+
+## Installation
 
 1. **Cloner le projet**
    ```sh
